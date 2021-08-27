@@ -466,7 +466,7 @@ function getCategoryNameById(id) {
             }}>
                 <Text style={{...FONTS.h1}}>What would you </Text>
                 <Text style={{...FONTS.h1}}>like to eat ? </Text>
-               
+                
                <FlatList 
                 data={categories}
                 horizontal
